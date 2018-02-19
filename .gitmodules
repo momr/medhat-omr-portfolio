@@ -1,0 +1,18 @@
+[submodule "CarND-Capstone"]
+	path = 02-Udacity-Self-Driving-Car-Nanodegree/01-CarND-Capstone
+	url = https://github.com/momr/CarND-Capstone
+[submodule "CarND-Traffic-Sign-Classifier-Project"]
+	path = 02-Udacity-Self-Driving-Car-Nanodegree/02-CarND-Traffic-Sign-Classifier-Project
+	url = https://github.com/momr/CarND-Traffic-Sign-Classifier-Project
+[submodule "CarND-Semantic-Segmentation"]
+	path = 02-Udacity-Self-Driving-Car-Nanodegree/09-CarND-Semantic-Segmentation
+	url = https://github.com/momr/CarND-Semantic-Segmentation
+[submodule "CarND-Behavioral-Cloning-P3"]
+	path = 02-Udacity-Self-Driving-Car-Nanodegree/03-CarND-Behavioral-Cloning-P3
+	url = https://github.com/momr/CarND-Behavioral-Cloning-P3
+[submodule "medhat-omr-phd-thesis"]
+	path = 01-medhat-omr-phd-thesis
+	url = https://github.com/momr/medhat-omr-phd-thesis
+[submodule "medhat-omr-resume"]
+	path = 99-medhat-omr-resume
+	url = https://github.com/momr/medhat-omr-resume
