@@ -29,11 +29,12 @@ The repository is organized as follow:
 ```
 
 In addition to my work presented here, please also have a look at my:
-- [LinkedIn](https://www.linkedin.com/in/medhatomr/)
-- [Twitter](https://twitter.com/)
-- [Personal Blog](https://momr.github.io/)
-<!-- - [Kaggle](https://www.kaggle.com/medhatomr) -->
-- [StackOverflow Developer Story](https://stackoverflow.com/users/story/2671627)
-<!-- - [HackerRank](https://www.hackerrank.com/medhat_omr) -->
+- My Personal Blog: [momr.github.com](https://momr.github.io/)
+- My Kaggle Profile: [MedhatOmr](https://www.kaggle.com/medhatomr)
+- My HackerRank Handler: [@MedhatOmr](https://www.hackerrank.com/MedhatOmr)
+- StackOverflow Developer Story: [Medhat Omr](https://stackoverflow.com/story/momr)
+- LinkedIn: [www.linkedin.com/in/MedhatOmr](https://www.linkedin.com/in/MedhatOmr/)
+- Twitter: [@MedhatOmr](https://twitter.com/MedhatOmr)
+
 
 <!-- [2018 Developer Skills Report](https://research.hackerrank.com/developer-skills/2018/) -->
